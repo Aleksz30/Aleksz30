@@ -52,11 +52,12 @@ Me chamo Alexsandro Souza Menezes, tenho 24 anos e sou natural da Bahia. ConcluÃ
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Cplusplus"
+    title="Cplusplus" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
 />
 <img 
     align="left" 
