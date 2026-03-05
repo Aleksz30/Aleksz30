@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Alex Souza
 
-**`Analista de Suporte | Desenvolvedor`**
+**`Estudante Futuro Analista de Suporte | Desenvolvedor`**
 
 ** Hello, World! **
 Me chamo Alexsandro Souza Menezes, tenho 24 anos e sou natural da Bahia. Concluí o ensino médio no CEPCS, com o curso de Ensinos Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniJorge. Sou apaixonado por tecnologia e crio uma enorme curiosidade pela área, estou sempre me mantendo atualizado para que possa aprimorar cada dia mais minhas habilidades, e compartilho também através do Instagram alguns momentos, com o perfil chamado "[alex.souzl](https://www.instagram.com/alex.souzl/)".
