@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Alex Souza
 
-**`Estudante Futuro Analista de Suporte | Desenvolvedor`**
+**`Estudante a caminho de um Futuro em Cybersecurity | Desenvolvedor`**
 
 <br clear="both">
 
